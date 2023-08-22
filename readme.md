@@ -9,6 +9,7 @@ Add the script mongodb_lua.py to lua scripts folder.
 
 
 ![./Xnip2023-08-22_20-40-02.jpg]()
+![alt text](https://github.com/cyberbeam524/literate-funicular/blob/main/Xnip2023-08-22_20-40-02.jpg)
 
 ```
 python mongo.py

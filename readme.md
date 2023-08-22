@@ -8,7 +8,7 @@ Step 2:
 Add the script mongodb_lua.py to lua scripts folder.
 
 
-![mongodb.lua]()
+![./Xnip2023-08-22_20-40-02.jpg]()
 
 ```
 python mongo.py

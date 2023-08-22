@@ -8,7 +8,7 @@ Step 2:
 Add the script mongodb_lua.py to lua scripts folder.
 
 
-![Uploading image.png…]()
+![mongodb.lua]()
 
 ```
 python mongo.py
